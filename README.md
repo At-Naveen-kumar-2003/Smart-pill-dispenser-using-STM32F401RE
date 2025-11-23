@@ -104,8 +104,10 @@ Upload images to your GitHub repository → inside `/images`.
 Then use:
 
 ```md
+![GUI Log](images/gui%20log.jpg)
 ![Hardware Setup](images/hardware%20setup.jpg)
-![Hardware](images/hardware.jpg)
+![Full Schedule](images/gui%20full%20schedule%20completed.jpg)
+
 ```
 
 ---
