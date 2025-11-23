@@ -104,7 +104,7 @@ Upload images to your GitHub repository → inside `/images`.
 Then use:
 
 ```md
-![Dashboard](images/hardware setup.jpg)
+![Hardware Setup](images/hardware%20setup.jpg)
 ![Hardware](images/hardware.jpg)
 ```
 
